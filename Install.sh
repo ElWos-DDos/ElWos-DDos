@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Author True Virus
 # Install dependencies
 sudo bash -c "echo deb http://ftp.debian.org/debian/ stretch main contrib non-free >> /etc/apt/sources.list.d/parrot.list"
 sudo apt-get update
